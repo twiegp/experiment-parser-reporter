@@ -1,0 +1,64 @@
+---
+title: "Experiment 1"
+author: "Center for the Study of Neuroeconomics"
+header-includes:
+   - \usepackage{booktabs, multirow, colortbl}
+output: beamer_presentation
+---
+## Market Prices (Round 1 Group Demo) ## 
+ Milk Exchanged: 66, Eggs Exchanged: 63, Sugar Exchanged: 51 
+ Milk Supply: 119, Eggs Supply: 103, Sugar Supply: 84
+
+
+```{r, echo=F, warning=F}
+plot(Prices_1_1)
+```
+
+## Market Prices (Round 2 Group Demo) ## 
+ Milk Exchanged: 77, Eggs Exchanged: 62, Sugar Exchanged: 65 
+ Milk Supply: 129, Eggs Supply: 101, Sugar Supply: 100
+
+
+```{r, echo=F, warning=F}
+plot(Prices_1_2)
+```
+
+## Market Prices (Round 3 Group Demo) ## 
+ Milk Exchanged: 70, Eggs Exchanged: 62, Sugar Exchanged: 57 
+ Milk Supply: 112, Eggs Supply: 97, Sugar Supply: 94
+
+
+```{r, echo=F, warning=F}
+plot(Prices_1_3)
+```
+
+## Market Prices (Round 1 Group Run) ## 
+ Milk Exchanged: 69, Eggs Exchanged: 59, Sugar Exchanged: 52 
+ Milk Supply: 108, Eggs Supply: 106, Sugar Supply: 90
+
+
+```{r, echo=F, warning=F}
+plot(Prices_2_1)
+```
+
+## Market Prices (Round 2 Group Run) ## 
+ Milk Exchanged: 63, Eggs Exchanged: 62, Sugar Exchanged: 48 
+ Milk Supply: 112, Eggs Supply: 110, Sugar Supply: 99
+
+
+```{r, echo=F, warning=F}
+plot(Prices_2_2)
+```
+
+## Market Prices (Round 3 Group Run) ## 
+ Milk Exchanged: 66, Eggs Exchanged: 64, Sugar Exchanged: 50 
+ Milk Supply: 110, Eggs Supply: 138, Sugar Supply: 109
+
+
+```{r, echo=F, warning=F}
+plot(Prices_2_3)
+```
+
+
+
+

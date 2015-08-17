@@ -1,0 +1,10 @@
+---
+title: "Experiment 1"
+author: "Center for the Study of Neuroeconomics"
+header-includes:
+   - \usepackage{booktabs, multirow, colortbl}
+output: beamer_presentation
+---
+%s
+
+

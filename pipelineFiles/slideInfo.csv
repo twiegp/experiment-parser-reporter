@@ -1,0 +1,7 @@
+Label,Order,Plotname,Exchanged_1,Exchanged_2,Exchanged_3,Supply_1,Supply_2,Supply_3
+Demo,1,Prices_1_1,66,63,51,119,103,84
+Demo,2,Prices_1_2,77,62,65,129,101,100
+Demo,3,Prices_1_3,70,62,57,112,97,94
+Run,1,Prices_2_1,69,59,52,108,106,90
+Run,2,Prices_2_2,63,62,48,112,110,99
+Run,3,Prices_2_3,66,64,50,110,138,109

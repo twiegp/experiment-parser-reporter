@@ -5,7 +5,7 @@ library(dplyr)
 ### Generic options for any experiment.
 options(
   experiment = "hyperinflation",
-  working_path = "C:\\Users\\csn\\Dropbox\\HSW_2015_Documentation\\Hyperinflation\\Pipeline",
+  working_path = "YOUR WORKING PATH HERE",
   python_prefix = "python", # If the shell needs a command-line prefix to run a Python script, put it here.
   raw_folder = "workingData",
   output_folder = "Results",
